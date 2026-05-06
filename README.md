@@ -1,5 +1,5 @@
 # Word-Level-American-Sign-Language
-An AI-powered end-to-end sign language recognition pipeline utilizing MediaPipe Holistic and a Bidirectional LSTM (Bi-LSTM) network to classify 100 American Sign Language (ASL) words.
+An AI-powered end-to-end sign language recognition pipeline utilizing MediaPipe Holistic and a Bidirectional LSTM (Bi-LSTM) and GRU and CNN network to classify 100 American Sign Language (ASL) words.
 AI-Powered Solutions for Sign Language Recognition
 Project OverviewThis project presents an end-to-end sign language recognition system designed to bridge the communication gap for individuals with hearing and speech impairments. By translating sign language manual movements, gestures, and facial expressions into text or speech, the system aims to improve social integration. The project was developed in 2026 at the Syrian Private University (SPU).
  DatasetSource: The model uses the WLASL100 (Word-Level American Sign Language) dataset sourced from Kaggle.
